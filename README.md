@@ -1,5 +1,11 @@
 # Saltline-CN
 
+网站部署：
+
+[标准版](https://molunsi.github.io/Saltline-CN/Saltline-CN.html)
+
+[无敌版](https://molunsi.github.io/Saltline-CN/Saltline-CN-无敌版.html)
+
 ## 主要介绍
 
 一个间接基于Saltline项目制作的中文FPS游戏，除汉化与无敌版的修改外，严格忠于原版
